@@ -3042,7 +3042,7 @@ The component in this family addresses the ability for a client to use DTLS to p
 
 *Component levelling*
 
-image:extracted-media/media/FCS_DTLSC_EXT.png[image,width=500,height=78]
+image:extracted-media/media/FCS_DTLSC_EXT.png[image,width=470,height=78]
 
 FCS_DTLSC_EXT.1 DTLS Client requires that the client side of DTLS be implemented as specified.
 
