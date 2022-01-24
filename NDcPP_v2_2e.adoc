@@ -3905,7 +3905,7 @@ This family defines the behaviour, management, and use of X.509 certificates for
 
 *Component levelling*
 
-image:extracted-media/media/FIA_X509_EXT.png[image,width=500,height=48]
+image:extracted-media/media/FIA_X509_EXT.png[image,width=440,height=98]
 
 FIA_X509_EXT.1 X509 Certificate Validation, requires the TSF to check and validate certificates in accordance with the RFCs and rules specified in the component.
 
@@ -4107,7 +4107,7 @@ Components in this family address the requirements for updating the TOE firmware
 
 *Component levelling*
 
-image:extracted-media/media/FPT_TUD_EXT.png[image,width=500,height=48]
+image:extracted-media/media/FPT_TUD_EXT.png[image,width=440,height=78]
 
 FPT_TUD_EXT.1 Trusted Update requires management tools be provided to update the TOE firmware and software, including the ability to verify the updates prior to installation.
 
