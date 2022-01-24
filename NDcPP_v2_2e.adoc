@@ -3144,7 +3144,7 @@ The component in this family addresses the ability for a server to use DTLS to p
 
 *Component levelling*
 
-image:extracted-media/media/FCS_DTLSS_EXT.png[image,width=500,height=48]
+image:extracted-media/media/FCS_DTLSS_EXT.png[image,width=440,height=78]
 
 FCS_DTLSS_EXT.1 DTLS Server requires that the server side of TLS be implemented as specified.
 
@@ -3584,7 +3584,7 @@ The component in this family addresses the ability for a client to use TLS to pr
 
 *Component levelling*
 
-image:extracted-media/media/FCS_TLSC_EXT.png[image,width=500,height=48]
+image:extracted-media/media/FCS_TLSC_EXT.png[image,width=440,height=78]
 
 FCS_TLSC_EXT.1 TLS Client requires that the client side of TLS be implemented as specified.
 
@@ -3682,7 +3682,7 @@ The component in this family addresses the ability for a server to use TLS to pr
 
 *Component levelling*
 
-image:extracted-media/media/FCS_TLSS_EXT.png[image,width=500,height=48]
+image:extracted-media/media/FCS_TLSS_EXT.png[image,width=440,height=78]
 
 FCS_TLSS_EXT.1 TLS Server requires that the server side of TLS be implemented as specified.
 
